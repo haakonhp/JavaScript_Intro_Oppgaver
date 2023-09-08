@@ -1,3 +1,6 @@
+// klarte ikke å få denne til å virke grunnet import av util.js
+
+
 import './styles.css';
 import { users } from './util.js';
 
